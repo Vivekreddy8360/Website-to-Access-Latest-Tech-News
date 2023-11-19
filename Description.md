@@ -1,4 +1,4 @@
-![image](https://github.com/Vivekreddy8360/Website-to-Access-Latest-Tech-News/assets/94525701/f861a90d-e7bb-40a2-b8b9-0e9f9986e0ce)# 1.Introduction:
+# 1.Introduction:
 The rapid growth of the internet and the increasing availability of digital devices such as smartphones, tablets, and laptops have fueled the demand for news websites using javascript and html These platforms offer a wide range of news articles covering diverse topics such as politics, sports, technology, entertainment, business, and more. Users can access news content anytime, anywhere, and customize their news consumption based on the interests and preferences.
 ### 1.1 Need of News Website
 a news website enables you to provide real-time information to your audience. This is especially relevant for projects that have dynamic content or frequent updates. News websites often include features such as comment sections, social media integration, and interactive elements that encourage user engagement. This can foster a sense of community and allow for feedback and discussions about regarding the project.
