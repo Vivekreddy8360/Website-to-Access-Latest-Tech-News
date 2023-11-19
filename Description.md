@@ -347,6 +347,7 @@ function displayNews() {
 ![image](https://github.com/Vivekreddy8360/Website-to-Access-Latest-Tech-News/assets/94525701/a9a204b5-e36e-4c0a-b1b8-1c40ca6f43a3)
 
 # Results
+![image](https://github.com/Vivekreddy8360/Website-to-Access-Latest-Tech-News/assets/94525701/0aab3fb6-b58f-4543-8b92-3a65bdd737e5)
 
 ### References 
 [1] Nazihovna, Yunusova Gulshod. "CREATING A PLATFORM USING HTML, CSS ANDJAVA SCRIPT METHODS AND STRENGTHENING EDUCATION WITH THIS STEAM." Confrencea 5.5 (2022)
